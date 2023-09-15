@@ -1,6 +1,7 @@
 ### Hi there 👋
 My real name is Wiktor Szablewski. I'm currently applying for job offers. I have not so much time to code. However, in near future I will learn React to speed up and specialize myself in Frontend Development deeper. Check out my Tic-Tac-Toe game or Travel Page to see the most recent project.
-![](https://komarev.com/ghpvc/?username=Szablitho&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
+
+Szablitho ![](https://komarev.com/ghpvc/?username=Szablitho&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
 <!--
 **Szablitho/Szablitho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
